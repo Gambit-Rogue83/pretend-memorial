@@ -1,0 +1,70 @@
+body {
+    background-image: url("https://wallpapers.com/images/hd/sad-background-hwll7icmjpxcznzm.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.dance {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+}
+
+p, h3 {
+    font-family: 'Caveat', cursive;
+    color: rgb(183, 212, 238);
+    font-size: xx-large;
+}
+
+.friends {
+    padding-left: 400px;
+}
+
+article {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 136, 136);
+    background-color: rgb(45, 110, 110);
+}
+
+.badge {
+    width: 500px;
+    margin-left: 500px;
+}
+
+.jet {
+    margin-left: 450px;
+}
+
+.title {
+    text-align: center;
+    background-color: rgb(45, 110, 110);
+}
+
+.group {
+    width: 500px;
+}
+
+.keys {
+    width: 450px;
+    height: 450px;
+    margin-left: 450px;
+}
+
+.peace {
+    text-align: center;
+    background-color: rgb(45, 110, 110);
+}
+
+.geh:hover {
+    background-color: rgb(81, 133, 3);
+    color: white;
+}
+
+.geh:hover::after {
+    content: " $500";
+}
